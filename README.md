@@ -32,6 +32,7 @@
 <br/>
 
 <p align="center">
-  <a href="#" alt="JT's github stats"><img src="https://github-readme-stats.vercel.app/api?username=JayantTripathy" /></a>
+  <a href="#" alt="JT's github stats"><img src="https://github-readme-stats.vercel.app/api?username=JayantTripathy&show_icons=true&theme=dark" width="400"></a>
 </p>
+
 
