@@ -1,4 +1,5 @@
-<h1 align="center">I'm Jayant Tripathy <img src="https://avatars.githubusercontent.com/u/25979791?v=4" width="30" height="30"/></h1>
+<h1 align="center">I'm Jayant Tripathy <p align="left"> </p></h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JayantTripathy" alt="cprespider" /> </p>
 
 <p align="center"> 
  <strong>
@@ -35,4 +36,5 @@
   <a href="#" alt="JT's github stats"><img src="https://github-readme-stats.vercel.app/api?username=JayantTripathy&show_icons=true&theme=dark" width="400"></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantTripathy&layout=compact)](https://github.com/JayantTripathy/github-readme-stats)
 
