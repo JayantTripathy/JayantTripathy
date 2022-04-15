@@ -32,9 +32,5 @@
 </p>
 <br/>
 
-<p align="center">
-  <a href="#" alt="JT's github stats"><img src="https://github-readme-stats.vercel.app/api?username=JayantTripathy&show_icons=true&theme=dark" width="400"></a>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantTripathy&layout=compact)](https://github.com/JayantTripathy/github-readme-stats)
-
+| <a href="https://github.com/JayantTripathy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantTripathy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jayant's github stats" /></a> | <a href="https://github.com/JayantTripathy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantTripathy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
